@@ -62,9 +62,9 @@ If you use this dataset in your research please cite it as:
 ```
 @misc{brown_twitter_public_interventions,
   author       = {Megan Brown},
-  title        = {SMAPPNYU/twitter_public_interest},
+  title        = {SMAPPNYU/twitter_elections_public_interest},
   month        = nov,
   year         = 2020,
-  url          = {https://github.com/SMAPPNYU/twitter_public_interest}
+  url          = {https://github.com/SMAPPNYU/twitter_elections_public_interest}
 }
 ```
