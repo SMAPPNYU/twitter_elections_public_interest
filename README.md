@@ -5,7 +5,7 @@ Dataset of public interest interventions on Twitter for politicians and candidat
 
 ## Dataset
 
-This dataset contains Twitter public interest invervention labels for tweets by a selected group of politicians starting on November 1, 2020. 
+This dataset contains Twitter public interest intervention labels for tweets by a selected group of politicians starting on November 1, 2020. 
 The list of politicians included in this dataset can be found in [politicians.csv](https://github.com/SMAPPNYU/twitter_elections_public_interest/blob/main/politicians.csv). The politicians CSV contains Members of Congress, candidates
 for federal office in 2020, prominent political organizations, and prominent members of the executive branch such as the President, Vice President, and various cabinet members.
 
