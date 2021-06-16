@@ -65,7 +65,7 @@ If you use this dataset in your research please cite it as:
   title        = {SMAPPNYU/twitter_elections_public_interest},
   month        = nov,
   year         = 2020,
-  doi          = {0.5281/zenodo.4967863},
+  doi          = {10.5281/zenodo.4967863},
   url          = {https://github.com/SMAPPNYU/twitter_elections_public_interest}
 }
 ```
