@@ -1,4 +1,6 @@
 # twitter_elections_public_interest
+<a href="https://doi.org/10.5281/zenodo.4967863"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4967863.svg" alt="DOI"></a>
+
 Megan Brown
 
 Dataset of public interest interventions on Twitter for politicians and candidates during the 2020 US General Elections
